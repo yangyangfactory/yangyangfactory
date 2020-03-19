@@ -1,7 +1,7 @@
 ---
 title: "Introduce Team members"
 date: 2020-03-19 23:48:00 +0900
-categories: introduce eng
+categories: eng intro
 ---
 
 BBACK
