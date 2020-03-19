@@ -5,7 +5,7 @@ categories: eng intro
 ---
 
 BBACK
- - DevOps Engineer
+ - Sexy DevOps Engineer
  - Hobby : LEGO, Lineage2M Player (Medina)
  - Technologies : Android, Java, Python, QuickBuild, Jenkins, CI/CD
 
